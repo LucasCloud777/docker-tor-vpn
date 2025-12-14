@@ -115,3 +115,12 @@ Este projeto realiza uma análise completa de capturas de tráfego de rede em um
 ```bash
 git clone https://github.com/LucasCloud777/docker-tor-vpn.git
 cd docker-tor-vpn
+
+## 📈 Status do Projeto
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasCloud777/docker-tor-vpn)
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasCloud777/docker-tor-vpn)
+
+## 📊 Dados
+- **Arquivo**: `data/raw/dockertorvpn.csv`
+- **Tamanho**: 20.7 MB
+- **Pacotes**: 146,434 registros
